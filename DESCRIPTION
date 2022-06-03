@@ -18,8 +18,8 @@ Suggests:
 Description: This package provides methods for creating
     simultaneous confidence bands for regression functions,
     using various bootstrapping techniques.
-URL: https://gitlab.com/scottkosty/simultcband
-BugReports: https://gitlab.com/scottkosty/simultcband/issues
+URL: https://github.com/douglascturner/simultcband/
+BugReports: https://github.com/douglascturner/simultcband/issues
 License: GPL (>= 2)
 NeedsCompilation: no
 RoxygenNote: 7.2.0
