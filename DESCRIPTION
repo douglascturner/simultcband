@@ -1,0 +1,26 @@
+Package: simultcband
+Type: Package
+Title: A package for creating simultaneous confidence bands for regression functions
+Version: 0.0.0.9000
+Author: Douglas Turner, Scott Kostyshak
+Maintainer: Douglas Turner <dturner103103@gmail.com>
+Depends:
+    R (>= 3.1),
+Imports:
+    boot,
+    locfit,
+    mgcv,
+    np,
+    quantreg,
+    stats
+Suggests:
+    testthat
+Description: This package provides methods for creating
+    simultaneous confidence bands for regression functions,
+    using various bootstrapping techniques.
+URL: https://gitlab.com/scottkosty/simultcband
+BugReports: https://gitlab.com/scottkosty/simultcband/issues
+License: GPL (>= 2)
+NeedsCompilation: no
+RoxygenNote: 7.2.0
+Encoding: UTF-8
