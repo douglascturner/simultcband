@@ -1,7 +1,5 @@
-These R scripts create simultaneous confidence bands for regression functions.
+This R package creates simultaneous confidence bands for regression functions.
 
-These scripts generate simultaneous confidence bands, using a variety of
-methods to estimate regression functions. Any predict method that produces
-standard errors can be used.
-
-These scripts will eventually be turned into an R package.
+The functions in this package generate simultaneous confidence bands, using a
+variety of methods to estimate regression functions. Any 'predict' method that
+produces standard errors can be used.
